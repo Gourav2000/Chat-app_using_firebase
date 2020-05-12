@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginLeft="23dp"
+    android:layout_centerVertical="true"
+    android:layout_marginRight="23dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboutActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15dp"
+        android:textStyle="italic"
+        android:layout_centerInParent="true"
+        android:text="This is a simple android based application,I made it for the purpose of chatting between two individuals. You just have to resister your self an account with a email and you are good to go."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_2"
+        android:layout_below="@id/txt_1"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="15dp"
+        android:textStyle="italic"
+        android:layout_centerHorizontal="true"
+        android:text="My name is Gourav Sarkar, I made it for the purpose of learning  and purely out of boredom , as a result of of sitting at home due of this Lockdown, I am a total beginner so pardon me if the UI seems a little bit primitive ....XD "/>
+    "
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_below="@+id/txt_2"
+        android:textStyle="bold"
+        android:id="@+id/txt_3"
+        android:text="If you have any suggestions for me or something which you think might make the app better  you can reach me at the email given below, i will be really grateful for your suggestions and yes critics are also welcome..lol"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/blue_800"
+        android:layout_marginTop="10dp"
+        android:textSize="15dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:text="You can reach me at gouravsarkar67@gmail.com"
+        android:layout_below="@+id/txt_3"/>
+
+</RelativeLayout>
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842759559701",
+    "firebase_url": "https://chuater-da353.firebaseio.com",
+    "project_id": "chuater-da353",
+    "storage_bucket": "chuater-da353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842759559701:android:c7f67d2b0b5b4659528c1c",
+        "android_client_info": {
+          "package_name": "com.sarkar.chuater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842759559701-2g1rca740j2ou68nmoscv8hsr5i4iv4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sarkar.chuater",
+            "certificate_hash": "3c1d8af3f08cf7355488d218d8dfa0e48623653a"
+          }
+        },
+        {
+          "client_id": "842759559701-uosodbm8gek6gqk28vfq8t4gmo9k89if.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB-RxZH89zesp2BtaeYFvlx_I-ZmO4H4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842759559701-uosodbm8gek6gqk28vfq8t4gmo9k89if.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
